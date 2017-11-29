@@ -1,0 +1,5 @@
+# This styleguide is built on top of the default Rubocop styleguide, located here:
+# https://github.com/bbatsov/rubocop/blob/master/config/default.yml.
+
+Rails/TimeZone:
+  EnforcedStyle: strict
